@@ -1,1 +1,1 @@
-# AshitaGK
+Split Calculator
